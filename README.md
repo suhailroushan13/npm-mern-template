@@ -1,0 +1,1 @@
+# npm-mern-template
