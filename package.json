@@ -1,0 +1,38 @@
+{
+  "name": "npm-mern-template",
+  "version": "1.0.0",
+  "description": "\"npm-mern-template\" is an npm package offering a pre-configured MERN (MongoDB, Express.js, React.js, Node.js) stack template. It streamlines web development by providing a ready-to-use backend server, React frontend, and MongoDB integration. Developers can quickly kickstart their MERN projects and focus on building feature-rich applications.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "postinstall": "bash script.sh",
+    "start": "bash script.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhailroushan13/npm-mern-template.git"
+  },
+  "keywords": [
+    "npm package",
+    "MERN stack",
+    "MongoDB",
+    "Express.js",
+    "React.js",
+    "Node.js",
+    "Template",
+    "Web development",
+    "Backend server",
+    "Frontend client",
+    "Integration",
+    "Pre-configured",
+    "Kickstart",
+    "Feature-rich",
+    "Open-source"
+  ],
+  "author": "\"MongoDB\",",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suhailroushan13/npm-mern-template/issues"
+  },
+  "homepage": "https://github.com/suhailroushan13/npm-mern-template#readme"
+}
