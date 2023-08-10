@@ -1,12 +1,13 @@
 {
   "name": "npm-mern-template",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "\"npm-mern-template\" is an npm package offering a pre-configured MERN (MongoDB, Express.js, React.js, Node.js) stack template. It streamlines web development by providing a ready-to-use backend server, React frontend, and MongoDB integration. Developers can quickly kickstart their MERN projects and focus on building feature-rich applications.",
   "main": "app.js",
   "type": "module",
   "scripts": {
     "postinstall": "bash script.sh",
-    "start": "bash script.sh"
+    "start": "bash script.sh",
+    "npm-mern-template":"bash script.sh"
   },
   "repository": {
     "type": "git",
